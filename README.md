@@ -1,4 +1,4 @@
-# Taller de Docker
+# Taller de Docker hecho por Santiago Bazzani Y Andres Beltran
 
 ## Creacion de imagen y uso de docker primera parte
 
